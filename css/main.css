@@ -1,13 +1,13 @@
 /**
 	Vendor imports
 */
-@import 'vendor/_normalize.css';
-@import 'vendor/_browserupgrade.css';
+@import 'vendor/normalize.css';
+@import 'vendor/browserupgrade.css';
 
 /**
 	Our imports
 */
-@import 'imports/_base.css';
-@import 'imports/_footer.css';
-@import 'imports/_header.css';
-@import 'imports/_card.css';
+@import 'components/base.css';
+@import 'components/footer.css';
+@import 'components/header.css';
+@import 'components/card.css';
