@@ -7,8 +7,8 @@
 /**
 	Our imports
 */
-@import 'components/base.css';
-@import 'components/heading.css';
-@import 'components/nav.css';
-@import 'components/card.css';
-@import 'components/footer.css';
+@import 'lib/base.css';
+@import 'lib/heading.css';
+@import 'lib/nav.css';
+@import 'lib/card.css';
+@import 'lib/footer.css';
